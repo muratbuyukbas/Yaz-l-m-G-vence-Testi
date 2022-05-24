@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/quickSort.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/quickSort.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/quickSort.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/quickSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/ref/quickSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/bin/Debug/net5.0/quickSort.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/ref/quickSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/quickSort/quickSort/obj/Debug/net5.0/quickSort.genruntimeconfig.cache

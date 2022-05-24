@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{335CA718-2759-49D1-869F-581AE454ABFC}|Default">
+  <MonoDevelop.Ide.ItemProperties.unitTestt FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="unitTestt/UnitTest1.cs">
+    <Files>
+      <File FileName="dortIslem/Program.cs" Line="10" Column="34" />
+      <File FileName="unitTestt/UnitTest1.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dortIslem" expanded="True">
+            <Node name="dortIslem" expanded="True" />
+            <Node name="unitTestt" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dortIslem FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

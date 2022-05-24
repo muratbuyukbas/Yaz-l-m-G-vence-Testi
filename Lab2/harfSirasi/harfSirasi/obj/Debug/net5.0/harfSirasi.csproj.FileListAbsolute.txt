@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/harfSirasi.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/harfSirasi.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/harfSirasi.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/harfSirasi.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/ref/harfSirasi.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/bin/Debug/net5.0/harfSirasi.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/ref/harfSirasi.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/harfSirasi/harfSirasi/obj/Debug/net5.0/harfSirasi.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/binaryNum.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/binaryNum.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/binaryNum.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/binaryNum.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/ref/binaryNum.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/bin/Debug/net5.0/binaryNum.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/ref/binaryNum.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta4/binaryNum/binaryNum/obj/Debug/net5.0/binaryNum.genruntimeconfig.cache

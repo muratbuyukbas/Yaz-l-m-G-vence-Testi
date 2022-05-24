@@ -1,0 +1,30 @@
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/usAlma.deps.json
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/usAlma.runtimeconfig.json
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/usAlma.runtimeconfig.dev.json
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/usAlma.dll
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/ref/usAlma.dll
+/Users/muratbuyukbas/Projects/usAlma/usAlma/bin/Debug/net5.0/usAlma.pdb
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.AssemblyInfo.cs
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.dll
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/ref/usAlma.dll
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.pdb
+/Users/muratbuyukbas/Projects/usAlma/usAlma/obj/Debug/net5.0/usAlma.genruntimeconfig.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/usAlma.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/usAlma.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/usAlma.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/usAlma.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/ref/usAlma.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/bin/Debug/net5.0/usAlma.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/ref/usAlma.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/usAlma/usAlma/obj/Debug/net5.0/usAlma.genruntimeconfig.cache

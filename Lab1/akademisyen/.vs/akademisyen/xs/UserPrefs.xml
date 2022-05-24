@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BEBED650-3FBB-4F79-9007-675429DBCD7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="unittest/UnitTest1.cs">
+    <Files>
+      <File FileName="unittest/UnitTest1.cs" Line="8" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="akademisyen" expanded="True">
+            <Node name="akademisyen" expanded="True" />
+            <Node name="unittest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.akademisyen FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.unittest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

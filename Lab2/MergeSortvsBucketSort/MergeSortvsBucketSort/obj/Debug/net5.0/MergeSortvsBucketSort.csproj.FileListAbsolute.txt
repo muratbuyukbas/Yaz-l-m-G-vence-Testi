@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/MergeSortvsBucketSort.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/MergeSortvsBucketSort.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/MergeSortvsBucketSort.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/MergeSortvsBucketSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/ref/MergeSortvsBucketSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/bin/Debug/net5.0/MergeSortvsBucketSort.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/ref/MergeSortvsBucketSort.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/MergeSortvsBucketSort/MergeSortvsBucketSort/obj/Debug/net5.0/MergeSortvsBucketSort.genruntimeconfig.cache

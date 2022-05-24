@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/kitap.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/kitap.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/kitap.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/kitap.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/ref/kitap.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/bin/Debug/net5.0/kitap.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/ref/kitap.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/kitap/kitap/obj/Debug/net5.0/kitap.genruntimeconfig.cache

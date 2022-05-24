@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AC8DDB2B-8A2F-4724-94AD-16ECD56CB4F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="harfSirasi/Program.cs">
+    <Files>
+      <File FileName="harfSirasi/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="harfSirasi" expanded="True">
+            <Node name="harfSirasi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.harfSirasi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

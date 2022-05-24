@@ -1,0 +1,30 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/labfirst.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/labfirst.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/labfirst.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/ref/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/bin/Debug/net5.0/labfirst.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/ref/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/labfirst/labfirst/obj/Debug/net5.0/labfirst.genruntimeconfig.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/labfirst.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/labfirst.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/labfirst.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/ref/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/bin/Debug/net5.0/labfirst.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/ref/labfirst.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta2/Kelimenin Tersini Yazdırma/labfirst/obj/Debug/net5.0/labfirst.genruntimeconfig.cache

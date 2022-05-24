@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E0B3D6AB-1ABC-43E2-8A79-3CDFF49CBD82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fibonacci/Program.cs">
+    <Files>
+      <File FileName="fibonacci/Program.cs" Line="32" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fibonacci" expanded="True">
+            <Node name="fibonacci" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.fibonacci PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

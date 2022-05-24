@@ -1,0 +1,15 @@
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.csproj.AssemblyReference.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.AssemblyInfoInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.AssemblyInfo.cs
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/fibonacci.deps.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/fibonacci.runtimeconfig.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/fibonacci.runtimeconfig.dev.json
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/fibonacci.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/ref/fibonacci.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/bin/Debug/net5.0/fibonacci.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/ref/fibonacci.dll
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.pdb
+/Users/muratbuyukbas/Desktop/dersler/kalite güvence/hafta3/fibonacci/fibonacci/obj/Debug/net5.0/fibonacci.genruntimeconfig.cache
